@@ -1,0 +1,17 @@
+.redirect-list__table table th,
+.redirect-list__table table td {
+  width: 50%;
+}
+
+.redirect-list__table table th:last-child,
+.redirect-list__table table td:last-child {
+  width: 1%;
+}
+
+.redirect-list__table .Polaris-ButtonGroup {
+  flex-wrap: nowrap;
+}
+
+.redirect-list__form-buttons {
+  padding-top: 2.225rem;
+}

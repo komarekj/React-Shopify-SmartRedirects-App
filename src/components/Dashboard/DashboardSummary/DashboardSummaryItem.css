@@ -1,0 +1,9 @@
+.summary-item__inner-wrap {
+  text-align: center;
+}
+
+.summary-item__inner-wrap .Polaris-Icon {
+  height: 4rem;
+  width: 4rem;
+  margin-bottom: 1rem;
+}

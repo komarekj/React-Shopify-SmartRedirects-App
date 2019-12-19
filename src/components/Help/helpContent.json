@@ -1,0 +1,18 @@
+[
+  {
+    "title": "How do redirects work?",
+    "content": "Redirects help your customers find content on your site that was originally placed on a different URL. E.g., if you move your landing page to a different URL, you should set up a new redirect to make sure customers still using the old URL don't end up on an error page."
+  },
+  {
+    "title": "What's the difference between Simple and Dynamic redirect?",
+    "content": "Simple redirects allow you to set the exact path to redirect. If you want to redirect a single product URL, that's what you should use. On the other hand, Dynamic redirects give you a chance to capture multiple URLs that match your RegEx rule. It's perfect for redirecting multiple content URLs with a single rule."
+  },
+  {
+    "title": "What is RegEx?",
+    "content": "A regular expression (RegEx) is a sequence of characters that define a search pattern. Such patterns are used for matching URLs without knowing the exact path."
+  },
+  {
+    "title": "What are 404 errors?",
+    "content": "404 errors show pages your customers visit but don't exist on your site. They often appear when you move your content or change the website platform to Shopify without creating correct redirects."
+  }
+]

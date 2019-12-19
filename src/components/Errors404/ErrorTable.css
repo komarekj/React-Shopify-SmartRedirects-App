@@ -1,0 +1,4 @@
+.errors__table-wrap th:last-child,
+.errors__table-wrap td:last-child {
+  width: 1%;
+}

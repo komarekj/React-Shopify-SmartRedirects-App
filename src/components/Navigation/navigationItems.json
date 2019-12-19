@@ -1,0 +1,32 @@
+[
+  {
+    "id": "dashboard",
+    "content": "Dashboard",
+    "panelID": "dashboard",
+    "path": "/app"
+  },
+  {
+    "id": "simple-redirects",
+    "content": "Simple Redirects",
+    "panelID": "simple-redirects",
+    "path": "/app/simple-redirects"
+  },
+  {
+    "id": "dynamic-redirects",
+    "content": "Dynamic Redirects",
+    "panelID": "dynamic-redirects",
+    "path": "/app/dynamic-redirects"
+  },
+  {
+    "id": "errors-404",
+    "content": "404 Errors",
+    "panelID": "errors-404",
+    "path": "/app/errors-404"
+  },
+  {
+    "id": "help",
+    "content": "Help",
+    "panelID": "help",
+    "path": "/app/help"
+  }
+]
