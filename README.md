@@ -1,4 +1,4 @@
-# Shopify SmartTags App - React Frontend
+# Shopify SmartRedirects App - React Frontend
 
 **Used features**
 - Redux & Redux Thunk
