@@ -1,5 +1,7 @@
 # Shopify SmartRedirects App - React Frontend
 
+Try The Demo: https://pixe.lt/redirects
+
 - Redux & Redux Thunk
 - React Router
 - Polaris UI Kit
