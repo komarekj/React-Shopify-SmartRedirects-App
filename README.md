@@ -9,3 +9,5 @@ Try The Demo: https://pixe.lt/redirects
 - Context API
 - ESLint
 - Prettier 
+
+![alt text](docs/images/screenshot.png)
