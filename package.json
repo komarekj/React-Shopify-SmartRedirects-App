@@ -6,7 +6,7 @@
     "@shopify/polaris": "^4.2.1",
     "cross-fetch": "^3.0.4",
     "moment": "^2.24.0",
-    "nanoid": "^2.1.8",
+    "nanoid": "^3.1.31",
     "prop-types": "^15.7.2",
     "query-string": "^6.9.0",
     "react": "^16.9.0",
